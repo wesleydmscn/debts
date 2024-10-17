@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Debts',
+  description: 'Seu app de gestão financeira mais simples!',
 };
 
 export default function RootLayout({
